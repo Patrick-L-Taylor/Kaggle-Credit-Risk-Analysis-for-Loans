@@ -1,14 +1,14 @@
 # Kaggle-Credit-Risk-Analysis-for-Loans
 
-**Overview:**
+## **Overview:**
 
 In this project, we focus on predicting loan defaults using various machine learning models. By leveraging a dataset from Kaggle, we experimented with a diverse set of models to determine the most accurate and reliable approach for predicting default events.
 
-**Datasets:**
+## **Datasets:**
 
-The dataset was sourced from Kaggle. It contains information on [specific attributes about the dataset, such as number of entries, features, etc.].
+The dataset was sourced from Kaggle. It contains information on consumer defaults. There are eight feature columns and one column that signals if a default occurred or not. The features included are: Income, Work Experience, Education Level, Age of the Customers, Debt to Income Ratio, Credit to Debt ratio, Other debts & Address.
 
-**Models Tested:**
+## **Models Tested:**
 
 - Random Forest Classifier: A versatile model that constructs multiple decision trees during training and outputs the mode of the classes for classification or mean prediction of the individual trees for regression.
 - Support Vector Machine (SVM): A representation of the examples as points in space, mapped so that the categories are divided by a clear gap that is as wide as possible.
@@ -18,17 +18,20 @@ The dataset was sourced from Kaggle. It contains information on [specific attrib
 - Voting Classifier: An ensemble meta-estimator which aggregates predictions from multiple fitted classifiers.
 - Stacked Classifiers: An ensemble-learning meta-classifier for stacking which uses predictions from multiple trained classifiers and uses another classifier to combine these predictions to predict the class labels of the samples.
 
-**Key Takeaways:**
+## **Key Takeaways:**
 
 The Support Vector Machine and AdaBoost models performed the best in terms of mean accuracy, indicating their robustness for this specific problem.
 The Voting Classifier was particularly notable, as it leveraged the power of underlying models like SVM and AdaBoost to achieve the same top-tier performance.
 
-**Future Work:**
+## **Future Work:**
 
 - Experiment with more advanced feature engineering techniques to possibly improve the model performance.
 - Test the models on newer, more extensive datasets to check the robustness of the current findings.
 - Explore deep learning models, which might be overkill for the current dataset but could be beneficial for larger datasets.
 
-**Acknowledgements:**
+## **Acknowledgements:**
 
-This project was inspired by a Kaggle competition. I'd like to thank the community for their invaluable datasets and kernels which provided a lot of insights.
+This project was inspired by a Kaggle project. 
+
+Here is the link for the Kaggle Project Page: https://www.kaggle.com/datasets/atulmittal199174/credit-risk-analysis-for-extending-bank-loans/data
+
