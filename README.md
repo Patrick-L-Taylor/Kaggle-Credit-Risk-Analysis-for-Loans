@@ -17,7 +17,7 @@ In this project, we focus on predicting loan defaults using various machine lear
 
 ## **Datasets:**
 
-The dataset was sourced from Kaggle. It contains information on consumer defaults. There are eight feature columns and one column that signals if a default occurred or not. The features included are: Income, Work Experience, Education Level, Age of the Customers, Debt to Income Ratio, Credit to Debt ratio, Other debts & Address.
+The dataset was sourced from Kaggle and contains information on consumer defaults. It comprises eight feature columns and one column that indicates whether a default occurred. The features include: Income, Work Experience, Education Level, Age of the Customers, Debt to Income Ratio, Credit to Debt Ratio, Other Debts, and Address.
 
 ## **Models Tested:**
 
