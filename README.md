@@ -1,5 +1,4 @@
 # Kaggle-Credit-Risk-Analysis-for-Loans
-Kaggle Project predicting default on loans. Different models tested, including Ensemble methods like Voting and Stacking. 
 
 **Overview:**
 
