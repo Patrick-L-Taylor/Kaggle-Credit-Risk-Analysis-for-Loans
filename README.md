@@ -1,5 +1,7 @@
 # Kaggle-Credit-Risk-Analysis-for-Loans
-📊 [View the Full Jupyter Notebook Analysis](https://github.com/Patrick-L-Taylor/Kaggle-Credit-Risk-Analysis-for-Loans/blob/main/bank-loan-credit-risk.ipynb)
+📊 [View the Full Jupyter Notebook](https://github.com/Patrick-L-Taylor/Kaggle-Credit-Risk-Analysis-for-Loans/blob/main/bank-loan-credit-risk.ipynb)
+
+
 ## **Overview:**
 
 In this project, we focus on predicting loan defaults using various machine learning models. By leveraging a dataset from Kaggle, we experimented with a diverse set of models to determine the most accurate and reliable approach for predicting default events.
