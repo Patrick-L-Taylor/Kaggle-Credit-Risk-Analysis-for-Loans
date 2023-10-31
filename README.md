@@ -1,6 +1,15 @@
 # Kaggle-Credit-Risk-Analysis-for-Loans
 📊 [View the Full Jupyter Notebook](https://github.com/Patrick-L-Taylor/Kaggle-Credit-Risk-Analysis-for-Loans/blob/main/bank-loan-credit-risk.ipynb)
 
+## Table of Contents
+- [Overview](#overview)
+- [Datasets](#datasets)
+- [Models Tested](#models-tested)
+- [Key Takeaways](#key-takeaways)
+- [Future Work](#future-work)
+- [Acknowledgements](#acknowledgements)
+
+
 
 ## **Overview:**
 
